@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<iostream>
+using namespace std;
+
+int arrayreverse(int arr[],int n){
+
+return -1;
+}
+
+int main(){
+
+
+return 0;
+}
